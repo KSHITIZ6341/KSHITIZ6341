@@ -44,12 +44,13 @@ I enjoy turning ideas into working software, with a focus on clear interfaces, m
   <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
 </p>
 
-## GitHub Snapshot
+## Profile Highlights
 
-<p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=KSHITIZ6341&show_icons=true&hide_border=true" />
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KSHITIZ6341&layout=compact&hide_border=true" />
-</p>
+| Area | Links |
+| --- | --- |
+| Open-source contribution | [sharkdp/fd PR #2055](https://github.com/sharkdp/fd/pull/2055) |
+| Public repositories | [Browse my projects](https://github.com/KSHITIZ6341?tab=repositories) |
+| Recent fork contribution | [KSHITIZ6341/fd](https://github.com/KSHITIZ6341/fd) |
 
 ---
 
