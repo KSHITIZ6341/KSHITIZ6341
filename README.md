@@ -32,7 +32,6 @@ I like turning rough ideas into working software. My GitHub is where I keep prac
 ## Selected Work
 
 - [Switcher](https://github.com/KSHITIZ6341/Switcher) - open-source macOS sidebar app for focused window workflows.
-- [fd contribution](https://github.com/sharkdp/fd/pull/2055) - improved changed-date parse error reporting for a popular Rust command-line tool.
 - [Restaurant management project](https://github.com/KSHITIZ6341/Resturant_management_2024S1ProjManageA2) - practical operations app that started as coursework and was used in a real restaurant workflow.
 - [sidebar](https://github.com/KSHITIZ6341/sidebar) - earlier always-on-top webviewer/sidebar experiment.
 - [game-eng-test1](https://github.com/KSHITIZ6341/game-eng-test1) - large Python game-engine experiment and learning project.
