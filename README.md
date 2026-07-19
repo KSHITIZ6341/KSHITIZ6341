@@ -1,77 +1,37 @@
-<h1 align="center">Kshitiz Suwal</h1>
+# Kshitiz Suwal
 
-<p align="center">
-  Software developer building practical macOS tools, web apps, and open-source contributions.
-</p>
+I’m a software developer drawn to useful tools, awkward edge cases, and changes that can be explained clearly.
 
-<p align="center">
-  <a href="https://kshitizsuwal.com">Website</a> |
-  <a href="https://github.com/KSHITIZ6341/Switcher">Switcher</a> |
-  <a href="https://github.com/KSHITIZ6341?tab=repositories">Projects</a> |
-  <a href="https://github.com/KSHITIZ6341?tab=pull-requests">Pull requests</a>
-</p>
+I build native macOS software and contribute focused fixes to open-source projects. The work has taken me through Swift, TypeScript, Go, Rust, Python, and Java; the common thread is understanding how a system behaves, tightening the weak spots, and leaving behind tests or documentation that make the next change easier.
 
----
+## Work
 
-## About
+### [Switcher for macOS](https://github.com/KSHITIZ6341/Switcher)
 
-I like turning rough ideas into working software. My GitHub is where I keep practical projects, open-source experiments, and contribution work while I keep improving my engineering habits.
+A native macOS app that docks ordinary application windows into a persistent sidebar. It is built with SwiftUI, AppKit, and the macOS Accessibility APIs to keep communication, notes, or other supporting tools visible without interrupting the main workspace.
 
-- Building [Switcher](https://github.com/KSHITIZ6341/Switcher), an open-source native macOS productivity app
-- Practicing open-source maintenance through issues, CI, release notes, docs, and contributor-friendly setup
-- Contributing to Rust and Python projects while sharpening testing, debugging, and review skills
+### [Restaurant operations tool](https://github.com/KSHITIZ6341/Resturant_management_2024S1ProjManageA2)
 
-## Current Project
+A Python application that began as an assessment project and grew into software used in a real restaurant workflow for day-to-day operations.
 
-### Switcher
+## Open source
 
-[Switcher](https://github.com/KSHITIZ6341/Switcher) is a native macOS app that turns regular app windows into a dedicated sidebar workflow. The v1.1.0 cycle is focused on the first open-source release work: cleaner project naming, GitHub Actions CI, contributor docs, and a public issue backlog for the next improvements.
+A few contributions that show the kind of problems I enjoy:
 
-**Stack:** Swift, SwiftUI, AppKit, macOS Accessibility APIs, Swift Package Manager, GitHub Actions
+- [Made `skuba` GitHub integrations work outside Git worktrees](https://github.com/seek-oss/skuba/pull/2516)
+- [Added mTLS client-certificate support to Pact JS](https://github.com/pact-foundation/pact-js/pull/1871)
+- [Added `no_std` and WebAssembly support to `tinyxml2-rs`](https://github.com/iTeebot/tinyxml2-rs/pull/12)
+- [Fixed rectangular subsystem swapping in `toqito`](https://github.com/vprusso/toqito/pull/1848)
+- [Added pseudo-inverse identity coverage to `multicalc-rust`](https://github.com/kmolan/multicalc-rust/pull/110)
 
-## Selected Work
+I’m most interested in correctness, developer tooling, APIs, infrastructure, and the bugs that live at system boundaries.
 
-- [Switcher](https://github.com/KSHITIZ6341/Switcher) - open-source macOS sidebar app for focused window workflows.
-- [Restaurant management project](https://github.com/KSHITIZ6341/Resturant_management_2024S1ProjManageA2) - practical operations app that started as coursework and was used in a real restaurant workflow.
-- [sidebar](https://github.com/KSHITIZ6341/sidebar) - earlier always-on-top webviewer/sidebar experiment.
-- [game-eng-test1](https://github.com/KSHITIZ6341/game-eng-test1) - large Python game-engine experiment and learning project.
+[Browse all of my pull requests →](https://github.com/search?q=author%3AKSHITIZ6341+is%3Apr&type=pullrequests)
 
-## Recent Open Source Activity
+## Working across
 
-| Project | Activity |
-| --- | --- |
-| [Switcher](https://github.com/KSHITIZ6341/Switcher) | Merged SwiftPM GitHub Actions CI workflow and open-source setup work |
-| [toqito](https://github.com/vprusso/toqito) | Merged docs, tests, and fixes for a Python quantum information toolkit |
-| [multicalc-rust](https://github.com/kmolan/multicalc-rust) | Merged Rust pseudo-inverse identity test coverage |
-| [walkdir](https://github.com/BurntSushi/walkdir) | Open Rust traversal edge-case contribution work |
-| [fd](https://github.com/sharkdp/fd) | Rust CLI contribution work |
-
-## Tools and Interests
-
-<p>
-  <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" />
-  <img alt="macOS" src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
-</p>
-
-## Profile Highlights
-
-| Area | Links |
-| --- | --- |
-| Main project | [Switcher](https://github.com/KSHITIZ6341/Switcher) |
-| Public repositories | [Browse my projects](https://github.com/KSHITIZ6341?tab=repositories) |
-| Recent pull requests | [GitHub PR activity](https://github.com/KSHITIZ6341?tab=pull-requests) |
-| Website | [kshitizsuwal.com](https://kshitizsuwal.com) |
+`Swift` · `SwiftUI` · `AppKit` · `TypeScript` · `Go` · `Rust` · `Python` · `Java` · `GitHub Actions`
 
 ---
 
-<p align="center">
-  Always learning, building, and looking for better ways to ship useful software.
-</p>
+If you maintain an open-source project with a well-scoped issue, I’m always interested in taking a look.
